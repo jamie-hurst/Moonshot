@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7D62E0DC273EF051007BF0FB /* CustomDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D62E0DB273EF051007BF0FB /* CustomDivider.swift */; };
+		7D62E0DE273EF1AD007BF0FB /* CrewRoster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D62E0DD273EF1AD007BF0FB /* CrewRoster.swift */; };
 		7D6DBD6D273C42C900EBE455 /* astronauts.json in Resources */ = {isa = PBXBuildFile; fileRef = 7D6DBD6C273C42C900EBE455 /* astronauts.json */; };
 		7D6DBD6F273C436E00EBE455 /* missions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7D6DBD6E273C436E00EBE455 /* missions.json */; };
 		7D6DBD71273C442600EBE455 /* Astronaut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D6DBD70273C442600EBE455 /* Astronaut.swift */; };
@@ -24,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		7D62E0DB273EF051007BF0FB /* CustomDivider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDivider.swift; sourceTree = "<group>"; };
+		7D62E0DD273EF1AD007BF0FB /* CrewRoster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrewRoster.swift; sourceTree = "<group>"; };
 		7D6DBD6C273C42C900EBE455 /* astronauts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = astronauts.json; sourceTree = "<group>"; };
 		7D6DBD6E273C436E00EBE455 /* missions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = missions.json; sourceTree = "<group>"; };
 		7D6DBD70273C442600EBE455 /* Astronaut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Astronaut.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				7D704D882739A0E700BA6160 /* ContentView.swift */,
 				7D93086C273DD711000EFD23 /* MissionView.swift */,
 				7D62E0DB273EF051007BF0FB /* CustomDivider.swift */,
+				7D62E0DD273EF1AD007BF0FB /* CrewRoster.swift */,
 				7D93086E273DE1D4000EFD23 /* AstronautView.swift */,
 				7D6DBD74273C49E900EBE455 /* Mission.swift */,
 				7D6DBD70273C442600EBE455 /* Astronaut.swift */,
@@ -169,6 +172,7 @@
 				7D93086D273DD711000EFD23 /* MissionView.swift in Sources */,
 				7D6DBD71273C442600EBE455 /* Astronaut.swift in Sources */,
 				7D93086F273DE1D4000EFD23 /* AstronautView.swift in Sources */,
+				7D62E0DE273EF1AD007BF0FB /* CrewRoster.swift in Sources */,
 				7D62E0DC273EF051007BF0FB /* CustomDivider.swift in Sources */,
 				7D6DBD77273C5D1C00EBE455 /* Color-Theme.swift in Sources */,
 				7D704D892739A0E700BA6160 /* ContentView.swift in Sources */,

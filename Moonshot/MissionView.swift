@@ -29,7 +29,7 @@ struct MissionView: View {
                     
                     if let date = mission.launchDate {
                         Label(date.formatted(date: .complete, time: .omitted), systemImage: "calendar")
-                            .padding(.top)
+                            .padding(.vertical)
                             .font(.headline)
                     }
                         
